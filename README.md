@@ -26,7 +26,7 @@ run ```clean_data.ipynb``` and ```predefined_question.ipynb```
 
 ```python3 global.py -f data/text_trial_level.json -v data/val_data.csv -l data/val_list.csv -a True -m recall@5```
 
-## Our best model is available at ```models/global_model.pth```
+# Our best model is available at ```models/global_model.pth```
 
 
 
