@@ -10,7 +10,7 @@
 
 3. *Preprocessing data*:
 
-run ```clean_data.ipynb``` and ```predefined_question.ipynb```
+run ```clean_data.ipynb```,```predefined_question.ipynb```, ```create_positive_pairs_q_a_level.py``` and ```create_positive_pairs_trial_level.py``` sequentially.
 
 4. *To do local contrastive training*: ```python3 local.py  -p 'data/text_q_a_level.json' -v 'data/val_data.csv' -l 'data/val_list.csv' -a True -m 'recall@5'```
 
