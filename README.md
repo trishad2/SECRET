@@ -1,14 +1,14 @@
 # **SECRET**
 
 
-#Data
+# Data
 Find the demo train data, validation data and test data in ```data``` folder. We have also shared a full list of unlabeled trials we used for training in trials.csv. Please download data from ```https://aact.ctti-clinicaltrials.org```.
 
 
-#*Run SECRET on Test Data*: ```python3 inference.py```
+# *Run SECRET on Test Data*: ```python3 inference.py```
 
 
-#Trainining process
+# Trainining process
 
 1. *To use LLM to generate Q/A pairs go to*:
    
