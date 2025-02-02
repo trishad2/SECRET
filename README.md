@@ -2,7 +2,7 @@
 
 
 # Data
-Find the demo train data, validation data and test data in ```data``` folder. We have also shared a full list of unlabeled trials we used for training in trials.csv. Please download data from ```https://aact.ctti-clinicaltrials.org```.
+Find the demo train data in ```data``` folder. We have also shared a full list of unlabeled and labeled trials we used for training, testing and validation in train_trials.csv, test_trials.csv and val_trials.csv respectively . Please download data from ```https://aact.ctti-clinicaltrials.org```.
 
 
 # *Run SECRET on Test Data*: 
