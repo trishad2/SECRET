@@ -2,12 +2,16 @@
 
 
 # Data
-Find the demo train data in ```data``` folder. We have also shared a full list of unlabeled and labeled trials we used for training, testing and validation in train_trials_unlabeled.csv, train_trials_labeled.csv, test_trials.csv and val_trials.csv respectively . Please download data from ```https://aact.ctti-clinicaltrials.org```.
+Find the demo train data in ```data``` folder. We have also shared a full list of unlabeled and labeled trials we used for training and validation in train_trials_unlabeled.csv, train_trials_labeled.csv and val_trials.csv respectively . Please download data from ```https://aact.ctti-clinicaltrials.org```. Test data is already in the folder named as ```test_data.csv```.
 
 
 # *Run SECRET on Test Data*: 
 
 ```python3 inference.py```
+
+# *Run Baselines on Test Data*:
+
+Run the jupyter notebooks in ```baselines```.
 
 
 # Trainining process
