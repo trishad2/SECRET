@@ -1,6 +1,6 @@
 # **SECRET**
 
-*To run SECRET on Test Data*:
+1. *To run SECRET on Test Data*:
 
 ```python3 inference.py```
 
