@@ -9,10 +9,6 @@ Find the demo train data in ```data``` folder. We have also shared a full list o
 
 ```python3 inference.py```
 
-# *Run Baselines on Test Data*:
-
-Run the jupyter notebooks in ```baselines```.
-
 
 # Trainining process
 
