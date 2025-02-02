@@ -14,7 +14,9 @@ run ```clean_data.ipynb```,```predefined_question.ipynb```
 
 4. *Create positive and negative*:
 
-```create_positive_pairs_q_a_level.py``` and ```create_positive_pairs_trial_level.py``` sequentially.
+```python3 create_positive_pairs_q_a_level.py```
+
+```python3 create_positive_pairs_trial_level.py``` 
 
 5. *To do local contrastive training*: ```python3 local.py  -p 'data/text_q_a_level.json' -v 'data/val_data.csv' -l 'data/val_list.csv' -a True -m 'recall@5'```
 
