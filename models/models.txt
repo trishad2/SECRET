@@ -1,3 +1,0 @@
-local model (local_model.pth): https://drive.google.com/file/d/1LDE3PDuM3u-yLoaOtWBEnOd8_iq7C3WV/view?usp=sharing 
-
-best model (global_model.pth): https://drive.google.com/file/d/1SgLjYuAk5-MYofar1F8mfKSzbwI3Ouqj/view?usp=sharing
