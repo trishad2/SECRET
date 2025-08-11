@@ -36,5 +36,30 @@ run ```clean_data.ipynb```,```predefined_question.ipynb```
 ```models/global_model.pth```
 
 
+## BibTeX Citation
+
+```bibtex
+@inproceedings{das-etal-2025-secret,
+    title = "$SECRET$: Semi-supervised Clinical Trial Document Similarity Search",
+    author = "Das, Trisha  and
+      Shafquat, Afrah  and
+      Beigi, Mandis  and
+      Aptekar, Jacob  and
+      Sun, Jimeng",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.264/",
+    doi = "10.18653/v1/2025.acl-long.264",
+    pages = "5278--5291",
+    ISBN = "979-8-89176-251-0"
+}
+```
 
 
