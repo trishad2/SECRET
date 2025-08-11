@@ -1,6 +1,6 @@
 # **SECRET**
-<img width="3290" height="1943" alt="pipeline" src="https://github.com/user-attachments/assets/10d278d0-d801-49eb-92a0-1688fe29f0ba" />
 
+<img width="837" height="464" alt="Screenshot 2025-08-11 at 10 11 26 AM" src="https://github.com/user-attachments/assets/32eedfb1-2f49-4de2-8236-214496d654f6" />
 
 
 # Data
