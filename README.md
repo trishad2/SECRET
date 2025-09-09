@@ -6,6 +6,9 @@
 # Data
 Find the demo train data in ```data``` folder. We have also shared a full list of unlabeled and labeled trials we used for training and validation in train_trials_unlabeled.csv, train_trials_labeled.csv and val_trials.csv respectively . Please download data from ```https://aact.ctti-clinicaltrials.org```. Test data is already in the folder named as ```test_data.csv```.
 
+# Get embedding for a single trial
+
+run example_inference_single_trial.ipynb
 
 # *Run SECRET on Test Data*: 
 
